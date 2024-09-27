@@ -17,9 +17,6 @@ Servlets
 MySQL database
 Tomcat Server
 
-Video tour
-https://github.com/user-attachments/assets/b65a2ca1-72f1-474d-ab4e-4563164a86a4
-
 Getting Started
 ![login page](https://github.com/user-attachments/assets/e9713afc-a20a-4aef-a67c-21a2315c57b0)
 ![menu](https://github.com/user-attachments/assets/15458c69-76a3-445d-a9a7-dd61a394d921)
