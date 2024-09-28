@@ -18,14 +18,15 @@ MySQL database
 Tomcat Server
 
 Getting Started
-![login page](https://github.com/user-attachments/assets/e9713afc-a20a-4aef-a67c-21a2315c57b0)
-![menu](https://github.com/user-attachments/assets/15458c69-76a3-445d-a9a7-dd61a394d921)
-![menu2](https://github.com/user-attachments/assets/ad1c89da-1036-44a0-941e-a922e00bda28)
-![Order Menu](https://github.com/user-attachments/assets/7dc70ce5-06b1-4cfe-9879-99428a286ca4)
-![Payment](https://github.com/user-attachments/assets/d6b86fc8-cc25-4d6b-849e-c03c9e06e9cb)
-![orderplaced](https://github.com/user-attachments/assets/64edf818-c1b5-4e97-9276-836ee37f7d24)
-![Order History](https://github.com/user-attachments/assets/b2e8771a-bdb4-4ea0-9bb7-687bd23eb427)
-![SignUp Page](https://github.com/user-attachments/assets/5ffe47d8-00e1-4818-bb38-c9fe7b2d4a6b)
+![Screenshot 2024-09-28 201004](https://github.com/user-attachments/assets/6eb72331-1df6-48d6-ab45-3491ef5efeeb)
+![Screenshot 2024-09-28 201026](https://github.com/user-attachments/assets/1344c01b-afd2-4be2-8d4b-f55c005eeafd)
+![Screenshot 2024-09-28 201047](https://github.com/user-attachments/assets/53878873-1aea-4eaa-9218-6cab5d5e826d)
+![Order Menu](https://github.com/user-attachments/assets/32d81dcc-da0a-44aa-adb0-336f7197b948)
+![Payment](https://github.com/user-attachments/assets/a0a58610-8392-4d3c-b72a-fbb2f05f71d5)
+![orderplaced](https://github.com/user-attachments/assets/2889d30b-ecc9-4e38-b2f9-257dfe625251)
+![Order History](https://github.com/user-attachments/assets/89ee0866-8f5b-49ad-ab0f-eb06ae964df0)
+![SignUp Page](https://github.com/user-attachments/assets/27958f9d-f7e9-46d0-ab7b-8e15f6354cfa)
+
 
 
 
